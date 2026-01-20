@@ -266,7 +266,7 @@ class OppodcastDesktop(ctk.CTk):
         self.chrono_elapsed = 0
         
         # --- Window Setup ---
-        self.title("Oppodcast Studio V5.2")
+        self.title("Oppodcast Studio V1.0")
         self.geometry("1200x850")
         self.grid_columnconfigure(1, weight=1)
         self.grid_rowconfigure(0, weight=1)
