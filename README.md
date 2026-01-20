@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
+<img width="1117" height="794" alt="image" src="https://github.com/user-attachments/assets/6b5ce5f3-0e08-42ed-bffd-aac01924e0dc" />
+
 ## Features
 
 - **30-Slot Sound Grid:** Drag & drop interface to assign sounds.
