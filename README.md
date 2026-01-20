@@ -1,6 +1,6 @@
-# Oppodcast Studio
+# Oppodcast Palette
 
-**Oppodcast Studio** is a lightweight, professional desktop soundboard designed for live podcasting and streaming. Built with Python and CustomTkinter, it provides a stable, zero-latency environment for playing jingles and managing your show.
+**Oppodcast Palette** is a lightweight, professional desktop soundboard designed for live podcasting and streaming. Built with Python and CustomTkinter, it provides a stable, zero-latency environment for playing jingles and managing your show.
 
 ![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
